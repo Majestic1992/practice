@@ -15,6 +15,7 @@ const Master = () => {
         recently with desktop publishing software like Aldus PageMaker including
         versions of Lorem Ipsum
       </p>
+      <h2>An addition to master branch</h2>
     </div>
   );
 };

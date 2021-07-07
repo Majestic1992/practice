@@ -12,6 +12,7 @@ function App() {
       <Alpha />
       <Beta />
       <Delta />
+      <button>Click me</button>
     </div>
   );
 }
